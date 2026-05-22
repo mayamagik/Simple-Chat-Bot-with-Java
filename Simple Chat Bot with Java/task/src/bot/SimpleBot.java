@@ -61,9 +61,10 @@ public class SimpleBot {
           answer = scanner.nextInt();
 
      }
+    }
 
+    static void end() {
+        System.out.println("Congratulations, have a nice day!"); // Do not change this text
 
-    }static void end() {
-        System.out.println("Congratulations, have a nice day!"); // Do not change this text}
     }
 }
