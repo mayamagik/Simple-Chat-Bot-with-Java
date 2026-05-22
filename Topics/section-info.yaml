@@ -1,0 +1,11 @@
+content:
+  - String
+  - Floating-point types and operations
+  - Comments
+  - Naming variables
+  - Arithmetic operations
+  - Boolean type and operations. True and false
+  - Comparing values. Relational operators
+  - Conditional statement
+  - One-line condition with ternary operator
+  - For loop

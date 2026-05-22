@@ -1,0 +1,4 @@
+content:
+  - String
+  - Replacing 'a' with 'b'
+  - Comparing strings ignoring whitespaces
